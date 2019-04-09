@@ -1,0 +1,6 @@
+{
+  "generator-open-wc": {
+    "tagName": "wc-flexi-layout",
+    "className": "WcFlexiLayout"
+  }
+}

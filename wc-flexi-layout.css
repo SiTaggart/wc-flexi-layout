@@ -1,0 +1,7 @@
+:root {
+  --wc-flexi-layout-columns: 12;
+  --wc-flexi-layout-gutters-x-small: 8px;
+  --wc-flexi-layout-gutters-small: 12px;
+  --wc-flexi-layout-gutters-medium: 18px;
+  --wc-flexi-layout-gutters-large: 32px;
+}
